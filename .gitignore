@@ -29,4 +29,6 @@ input/user_factor_*
 
 input/*.pkl
 
+input/*.csv
+
 .ipynb_checkpoints/
