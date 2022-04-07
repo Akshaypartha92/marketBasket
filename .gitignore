@@ -13,6 +13,8 @@ input/order_products__train.csv
 
 input/orders.csv
 
+input/*.p
+
 input/products.csv
 
 input/sample_submission.csv

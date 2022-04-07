@@ -1,3 +1,3 @@
-# Instacart recommendation system - A Collaborative Filtering Approach using TF-IDF
+# Instacart recommendation system - Approach of Data Science
 
 
